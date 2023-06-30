@@ -1,4 +1,4 @@
-# Interactive-model-operon
+# Interactive model of the operon
 # Author 
 - Maria Rybak
 # Description of the project 
