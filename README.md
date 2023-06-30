@@ -18,6 +18,7 @@ Elements of the model:
 Circuit was created basing on the scheme found in "Raspberry Pi Beginner's Guide" and the software is the modified version of the one found on the website https://kostrzewinki.pl/podlaczenia-kontaktronu-raspberry-pi-systemie-domoticz/. 
 # What next?
 This model may be used during for example biochemistry courses to demonstrate the positive control of the operon. With this technology we may create more interactive models which can be very helpful in learning. Moreover, it's not hard to change the model to also present the negative control of the operon.
+As it was mentioned the project is quite simple. However, we may easily develop it to be more complex and to present more complicated mechanisms. 
 # Sources 
 - [Writing on GitHub] ( https://docs.github.com/en/get-started/writing-on-github )
 - Raspberry Pi Beginner's Guide
